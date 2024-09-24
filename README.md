@@ -121,7 +121,7 @@ sudo systemctl restart cups
 ### Install Selphy_Print
 - Install prerequisites 
 ```
-apt-get install libusb-1.0-0-dev libcups2-dev libgutenprint-dev
+sudo apt-get install libusb-1.0-0-dev libcups2-dev libgutenprint-dev
 ```
 
 - Get the latest selphy_print code
