@@ -1,4 +1,4 @@
-# "cuphead" print server
+# Creating virtual Dye Sublimation print server using CUPS and Selphy_Print
 Setup process for an Ubuntu VM hosting DyeSub printers like my Mitsubishi CP-K60DW-S using the selphy_print repository
 
 ## References: 
