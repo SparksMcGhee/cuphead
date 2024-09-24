@@ -41,7 +41,7 @@ sudo nano /etc/cups/cupsd.conf
 
 ```
     # Restrict access to the admin pages...
-    <Location /admin>
+    <Location>
     AuthType Default
     Require user @SYSTEM
     Order allow,deny
